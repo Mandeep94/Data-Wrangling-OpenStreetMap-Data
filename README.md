@@ -18,30 +18,30 @@ These files then i loaded into database with the schema found in schema.py file
 All the process from creating sample file to converting into csv and then cleaning data 
 can be found in jupyter notebook. and the full documentation in the pdf file.
 
-1. Data Wrangling.ipynb
+1. Data Wrangling.ipynb:
   step-by-step process from sampling to parse and clean the data
 
-2. sampling.py
+2. sampling.py:
   Samples data from full city osm file of 13GB to 13MB
 
-3. audit.py
+3. audit.py:
   Audits the data, checks for problems on sample data
 
-4. parsing.py
+4. parsing.py:
   Parses the osm data into 5 different csv files
 
-5. schema.py
+5. schema.py:
   The schema used in parsing the data
   
-6. csv files
+6. csv files:
   Data files generated from osm data into five files to store in db
 
-7. cleanup.py
+7. cleanup.py:
   Clean the data for issues found in audit phase
   
-8. create_table.sql
+8. create_table.sql:
   sql script with create table commands for DB
   
-9. Data Wrangling OSM Data.pdf
+9. Data Wrangling OSM Data.pdf:
   
   
