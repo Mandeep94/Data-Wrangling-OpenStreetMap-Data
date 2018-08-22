@@ -39,12 +39,9 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
 7. csv files:
   Data files generated from osm data into five files to store in db
 
-8. cleanup.py:
-  Clean the data for issues found in audit phase
-  
-9. create_table.sql:
+8. create_table.sql:
   sql script with create table commands for DB
   
-10. Data Wrangling OSM Data.pdf:
+9. Data Wrangling OSM Data.pdf:
   
   
