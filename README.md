@@ -25,23 +25,26 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
   Samples data from full city osm file of 13GB to 13MB
 
 3. audit.py:
-  Audits the data, checks for problems on sample data
+  Audits the tags in sample data
 
-4. parsing.py:
+4. audit_street_names.py:
+  Audits the street names in data
+
+5. parsing.py:
   Parses the osm data into 5 different csv files
 
-5. schema.py:
+6. schema.py:
   The schema used in parsing the data
   
-6. csv files:
+7. csv files:
   Data files generated from osm data into five files to store in db
 
-7. cleanup.py:
+8. cleanup.py:
   Clean the data for issues found in audit phase
   
-8. create_table.sql:
+9. create_table.sql:
   sql script with create table commands for DB
   
-9. Data Wrangling OSM Data.pdf:
+10. Data Wrangling OSM Data.pdf:
   
   
