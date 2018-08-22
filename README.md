@@ -36,8 +36,8 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
 6. schema.py:
   The schema used in parsing the data
   
-7. csv files:
-  Data files generated from osm data into five files to store in db
+7. cleanup.py:
+  Clean the data for issues found in audit process
 
 8. create_table.sql:
   sql script with create table commands for DB
