@@ -1,6 +1,6 @@
 # Data-Wrangling-OpenStreetMap-Data
 
-This project takes the data of ontario city from OSM site. Parses, cleans and saves it in sqlite DB.
+This project takes the data of ontario city from OSM site. Parses, audits, cleans and saves it in sqlite DB.
 
 The city data used in this project can be found in the below link.
 https://download.geofabrik.de/north-america/canada/ontario.html
@@ -21,6 +21,7 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
 1. Data Wrangling.ipynb: 
   - Create sample file
   - Get familiarize with data
+  - Audit the data
   - Parse data into csv files
   - Clean the data
   
