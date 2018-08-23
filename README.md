@@ -43,5 +43,11 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
   sql script with create table commands for DB
   
 9. Data Wrangling OSM Data.pdf:
-  
-  
+  Process documentation
+
+## References:
+
+[1]: https://wiki.openstreetmap.org/wiki/OSM_XML
+[2]: Stack overflow
+[3]: GitHub repo
+[4]: Udacity notes
