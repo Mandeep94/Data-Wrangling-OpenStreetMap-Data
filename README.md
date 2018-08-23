@@ -47,7 +47,7 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
 
 ## References:
 
-  [1]: https://wiki.openstreetmap.org/wiki/OSM_XML
+  [1]: OMS Wiki
 
   [2]: Stack overflow
 
