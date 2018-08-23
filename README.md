@@ -47,10 +47,10 @@ can be found in jupyter notebook. and the full documentation in the pdf file.
 
 ## References:
 
-[1]: https://wiki.openstreetmap.org/wiki/OSM_XML
+  [1]: https://wiki.openstreetmap.org/wiki/OSM_XML
 
-[2]: Stack overflow
+  [2]: Stack overflow
 
-[3]: GitHub repo
+  [3]: GitHub repo
 
-[4]: Udacity notes
+  [4]: Udacity notes
