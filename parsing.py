@@ -6,7 +6,7 @@ import schema
 import xml.etree.cElementTree as ET
 from collections import defaultdict
 sample_file = "sample_data_ontario.osm"
-osm_file = "ontario-latest.osm"
+osm_file = "ontario.osm"
 
 def process_map(file_in, validate):
     """Iteratively process each XML element and write to csv(s)"""
